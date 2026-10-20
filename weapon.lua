@@ -1,4 +1,4 @@
-local MESHES_OLD =
+MESHES_FULL =
 {
     ["Gingerscope"] = {
         Complete = true,
@@ -49803,3 +49803,5 @@ for k, v in pairs(MESHES_NEW) do MESHES[k] = v end
 MESHES_OLD, MESHES_FULL, MESHES_NEW = nil, nil, nil
 
 return MESHES, GRIPS
+},
+}
