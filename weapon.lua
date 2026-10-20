@@ -1,4 +1,4 @@
-MESHES_FULL =
+local MESHES_FULL =
 {
     ["Gingerscope"] = {
         Complete = true,
